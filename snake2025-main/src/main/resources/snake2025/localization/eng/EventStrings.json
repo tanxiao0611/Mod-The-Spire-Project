@@ -1,0 +1,109 @@
+{
+  "${modID}:EventID": {
+    "NAME": "Event Name",
+    "DESCRIPTIONS": [
+      "This is event text, generally used to describe what's happening.",
+      "#g~This~ #g~text~ #g~is~ #g~green~ #g~and~ #g~wavy.~",
+      "#r@RED@ #r@AND@ #r@VIBRATING@ #r@TEXT.@",
+      "#rRed #gGreen #yYellow #bBlue #pPurple. ~Wavy~ @vibrating.@",
+      "You have to mark every word individually.",
+      "You can also use [#ffffff]white[] hex color codes like this to color text.",
+      "Hex color codes also work in card text! But not on keywords, without some workarounds."
+    ],
+    "OPTIONS": [
+      "[Action Description] What you actually get.",
+      "[Denial] #rLose #r1 #rMax #rHP. Bad stuff is red.",
+      "[Acceptance] #gGain #gApotheosis. Good stuff is green.",
+      "[Leave]",
+      "Select card to remove. (You can also stick extra text like this in here.)"
+    ]
+  },
+
+  "${modID}:FruitRelics": {
+    "NAME": "家里来亲戚了！",
+    "DESCRIPTIONS": [
+      "春节你家来亲戚了！还带来了一些美味的水果～",
+      "作为小辈，你只要稍微意思意思下就行【亲切的笑容】",
+      "诶呀，真的不来点儿吗【略显失望】"
+    ],
+    "OPTIONS": [
+      "[接受] 拿走水果并留下30金币，感受到了来自长辈的关怀",
+      "[锁定] 你的钱包空空如也",
+      "[拒绝] 不要了，非常感谢：）",
+      "继续你的春节大冒险"
+    ]
+  },
+  "${modID}:RedCultistEvent": {
+    "NAME": "咔咔陪你过新年^^",
+    "DESCRIPTIONS": [
+      "春节期间，咔咔们也把头套换成了鲜艳的红色！",
+      "你仿佛听到了一阵熟悉的音乐......",
+      "邪教徒的力量无人能及，至于唱歌跳舞这些的嘛...？【怀疑】"
+    ],
+    "OPTIONS": [
+      "[接受] 拿走遗物，并跟随咔咔们唱起了喜庆的歌",
+      "[锁定] 你已经拥有咔咔面具了，做人不能太贪心",
+      "[拒绝] 我看这是黄鼠狼给鸡拜年",
+      "继续你的春节大冒险"
+    ]
+  },
+  "${modID}:StrikeAndDefense": {
+    "NAME": "长辈的心意",
+    "DESCRIPTIONS": [
+      "长辈带来了许多礼物...",
+      "长辈露出了欣慰的笑容",
+      "这孩子怎么能这么懂事呢...【叹气】"
+    ],
+    "OPTIONS": [
+      "[接受] 多谢这独一无二的礼物！拿起来后让我有如神助",
+      "[拒绝] 谢谢您嘞，给您拜个早年，这礼物太重咱就不收了",
+      "继续你的春节大冒险"
+    ]
+  },
+  "Masked Bandits": {
+    "NAME": "Masked Bandits",
+    "DESCRIPTIONS": [
+      "“哎呀，这么多红包，看起来挺厚的嘛！ NL #r多谢你的红包！祝你新年大吉大利，蛇年行大运！”",
+      "“居然这么快就拿到红包了啊”",
+      "“作为一只蛇，哪怕今年是蛇年，可自从成年后就再也没收到过红包了呢”",
+      "最终，异蛇欢欢喜喜地离开了。 NL 春节的欢声笑语仍然在你的耳边回荡。",
+      "噼里啪啦……新年快乐！红彤彤的灯笼高高挂，鞭炮声响彻云霄！ NL 一只穿着喜庆服饰的蛇走上前来，脸上满是笑意。 NL “朋友，新年好！我们异蛇一族最喜欢热闹了。看到你身上有红包~，不如让我们一起来分享这份喜庆吧！”"
+    ],
+    "OPTIONS": [
+      "[给红包]大过年的，给你个红包吧！失去所有 #y金币",
+      "[不愿分享红包的喜悦][战斗！]",
+      "[继续]",
+      "[离开]"
+    ]
+  },
+  "SecretPortal": {
+    "NAME": "春运列车",
+    "DESCRIPTIONS": [
+      "恭喜！你买到了春运末班车的火车票！尽管你有些怀疑，但搭上这班车应该能节约你爬塔的时间～",
+      "每小时行驶几百公里的高铁瞬间带你到达了高塔的终点，而前方正有一场苦战在等待着你",
+      "你对这天上掉下来的馅饼不感兴趣，你坚信要靠自己的力量到达春节旅途的终点"
+    ],
+    "OPTIONS": [
+      "[搭载列车]立刻抵达boss房间",
+      "[离开]"
+    ]
+  },
+  "NoteForYourself": {
+    "NAME": "新年新气象",
+    "DESCRIPTIONS": [
+      "节日扫除时你在桌子下面发现了一张纸条",
+      "挪动桌子，你从墙缝里抠出了去年立的flag" ,
+      "阅读着上面的文字，你为这一年的碌碌无为感到些许懊悔",
+      "迷茫中，又一年过去了，我在过去的时间里做了些什么呢？"
+
+    ],
+    "OPTIONS": [
+      "[继续]",
+      "[拿起纸条] #g获得 ",
+      " #g然后存放一张牌",
+      "[无视] 去年立的flag，和新一年的我有什么关系？",
+      "[离开]"
+    ]
+  }
+
+}

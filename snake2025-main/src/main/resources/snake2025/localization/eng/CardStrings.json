@@ -1,0 +1,22 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:SpringFestivalCurse": {
+    "NAME": "进阶之灾：催婚",
+    "DESCRIPTION": "不能被打出 NL 从牌组中移除则添加一张 催生"
+  },
+  "${modID}:BabyCurse": {
+    "NAME": "催生",
+    "DESCRIPTION": "不能被打出 NL 首回合一层脆弱 NL 从牌组中移除则添加一张 伤口 NL 被消耗则在抽牌堆中加入一张 灼烧 一张 虚空"
+  }
+}
+
+

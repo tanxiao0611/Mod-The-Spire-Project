@@ -1,0 +1,23 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:RedCultistHeadPiece": {
+    "NAME": "邪教徒头套（春节版）",
+    "FLAVOR": "你有开腔（指唱“难忘今宵”）的欲望",
+    "DESCRIPTIONS": [
+      "play sound at the beginning of each game."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "会员卡（逛庙会版）",
+    "FLAVOR": "猜猜是打折还是杀熟？",
+    "DESCRIPTIONS": [
+      "Prices in the shop are increased by 50%."
+    ]
+  }
+}
